@@ -337,12 +337,13 @@ margin-right: 0;
 }
 
 .activities-sub-title-text {
+display: flex;
+align-items: center;
+justify-content: center;
 font-weight: 700;
 font-size: 14px;
 line-height: 1.142;
-text-align: center;
 letter-spacing: 0.03em;
-padding-top: 27px;
 text-transform: uppercase;
 color: var(--color-background-1);
 width: 100%;
